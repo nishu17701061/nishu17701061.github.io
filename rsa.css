@@ -1,0 +1,39 @@
+
+p{
+	font-size: 21px;
+	color: Black;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	color: #8080ff;
+}
+h2 {
+	text-align: center;
+	font-size: 20px;
+}
+#l{
+	margin: 20px;
+	font-size: 20px;
+	color: Black;
+}
+#add{
+	margin: 0px;
+}
+.row > div{
+	margin-top: 30px;
+	display: inline-table;
+}
+#list{
+	width: 100px;
+	height: 25px;
+	background-color:Black;
+	border: 2px solid #222;
+}
+blockquote {
+	background-color: #8080ff;
+
+}
+div {
+	text-align: center;
+}
